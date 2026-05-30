@@ -47,7 +47,7 @@ This project analyzes customer demographics,identifying churn drivers and provid
 * Inactive customers have a higher churn rate (26.85%) compared to active customers.
 * Mature customers (46–60 years) exhibit the highest churn rate at 51.12%.
 * Female customers churn more than male customers, with a churn rate of 25.07%.
-* Newer customers are more likely to churn(21.01%), while established customers tend to be more stable.
+* Newer customers are more likely to churn(21.01%),whereas a very slight difference is seen as established customer have churn rate of 19.85%.
 * Credit card ownership shows little impact on customer churn.
 * Credit score appears to have a limited influence on churn, with only minor differences across segments.
 * Customers in the High Balance segment have the highest churn rate at 25.23%.
@@ -66,8 +66,10 @@ This project analyzes customer demographics,identifying churn drivers and provid
 
 ## Results & Conclusion
 
-The analysis indicates that customer activity status, age group, account balance, geography, and salary level are the primary drivers of churn. 
-Inactive customers, mature customers, and customers from Germany represent the highest-risk segments.
+* Customer churn is mainly driven my inactivity,age, low engagement(low service count) as well as geography.So these can be considered the primary factors causing churn.
+*In contrast,factors like salary segemnt,credit card count and credit score have less impact on customer churn.
+
+
 
 ### Recommendations
 
