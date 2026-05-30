@@ -62,8 +62,8 @@ This project analyzes customer demographics,identifying churn drivers and provid
 - [EDA](Bank-Churn-Analysis/SQL%20Queries/Bank%20Churn(04_EDA).sql)
 
 ## Dashboard
-![Overview Dashboard](Bank-Churn-Analysis/Dashboard/Overview(%20Page%201).png)
-![Churn Drivers Analysis](Bank-Churn-Analysis/Dashboard/Churn%20Drivers%20Analysis(%20Page%202).png)
+![Overview Dashboard](Bank-Churn-Analysis/Dashboard/Overview(Page%201).png)
+![Churn Drivers Analysis](Bank-Churn-Analysis/Dashboard/Churn%20Drivers%20Analysis(Page%202).png)
 
 ## Results & Conclusion
 
