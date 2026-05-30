@@ -1,7 +1,7 @@
 # Bank Customer Churn Analysis
 
 ## Brief Summary
-A data analytics project focused on identifying customer churn patterns and uncovering key factors influencing customer churn in the banking sector by using SQL Server and Power BI.
+A data analytics project focused on identifying customer distribution among segments and uncovering key factors influencing customer churn in the banking sector by using SQL Server and Power BI.
 
 ## Overview
 Customer churn is a major challenge for banks as retaining existing customers is more cost-effective than acquiring new ones.
