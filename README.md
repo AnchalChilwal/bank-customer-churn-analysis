@@ -55,7 +55,6 @@ This project analyzes customer demographics,identifying churn drivers and provid
 * Customers in the High Salary segment show the highest churn rate at 20.84% while a very little difference we can see in medium and low salary segment.
 
 ## SQL Queries
-## SQL Queries
 - [Data Cleaning](Bank-Churn-Analysis/SQL%20Queries/Bank%20Churn%20(01_Data%20_cleaning).sql)
 - [Creating a New Table](Bank-Churn-Analysis/SQL%20Queries/Bank%20Churn(02_creating%20_a%20_new%20table%20).sql)
 - [Inserting Cleaned Data](Bank-Churn-Analysis/SQL%20Queries/Bank%20Churn(03_Inserting%20_cleaned%20_data).sql)
