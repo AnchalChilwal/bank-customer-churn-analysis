@@ -28,7 +28,7 @@ This project analyzes customer demographics,identifying churn drivers and provid
 * Dashboard Development.
 
 ## Key Insights
-## Customer Demographic Insights
+### Customer Demographic Insights
 * The dataset contains 10,000 customers.
 * Average customer age is 38.92 years.
 * Average account balance is 76,485.89.
@@ -43,7 +43,7 @@ This project analyzes customer demographics,identifying churn drivers and provid
 * 47.99%  of customers belong to the high-balance segment(>100000)  and 50.84% of customers are taking only one service.
 * 70.55% of customers are having credit cards.
 
-## Churn Drivers Insights
+### Churn Drivers Insights
 * Inactive customers have a higher churn rate (26.85%) compared to active customers.
 * Mature customers (46–60 years) exhibit the highest churn rate at 51.12%.
 * Female customers churn more than male customers, with a churn rate of 25.07%.
