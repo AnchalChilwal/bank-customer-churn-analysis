@@ -82,6 +82,8 @@ Inactive customers, mature customers, and customers from Germany represent the h
 
 ## Author
 **ANCHAL CHILWAL**
+
+## Contact Info
 * LinkedIn:(https://linkedin.com/in/anchal-chilwal-30b359408)
 * GitHub:(https://github.com/AnchalChilwal)
 
