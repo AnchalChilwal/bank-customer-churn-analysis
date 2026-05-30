@@ -67,7 +67,7 @@ This project analyzes customer demographics,identifying churn drivers and provid
 ## Results & Conclusion
 
 * Customer churn is mainly driven my inactivity,age, low engagement(low service count) as well as geography.So these can be considered the primary factors causing churn.
-*In contrast,factors like salary segemnt,credit card count and credit score have less impact on customer churn.
+* In contrast,factors like salary segemnt,credit card count and credit score have less impact on customer churn.
 
 
 
