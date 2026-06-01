@@ -64,6 +64,8 @@ This project analyzes customer demographics,identifying churn drivers and provid
 ![Overview Dashboard](Bank-Churn-Analysis/Dashboard/Overview(Page%201).png)
 ![Churn Drivers Analysis](Bank-Churn-Analysis/Dashboard/Churn%20Drivers%20Analysis(Page%202).png)
 
+## PowerBI Dashboard
+![Dashboard](Bank%20Customer%20Churn%20Dashboard.pbix)
 ## Results & Conclusion
 
 * Customer churn is mainly driven my inactivity,age, low engagement(low service count) as well as geography.So these can be considered the primary factors causing churn.
